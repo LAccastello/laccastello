@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi!! I'm Lucas 👋
 
+I'm Full Stack Engineer focused in **Javascript** specifically **Angular, React & Node**. I'm from Argentina and currently working on [Intuitivo](http://intuitivo.ai). I'm looking to spend more time sharing knowledge and collaborating on opensource projects. 
+
+I’m currently learning about containers with Docker and Kubernetes and how to create Microservices in a professional way on [MUG](http://mug-it.org.ar/) 💪
+
+Also I write posts about programming [at my blog](https://lucasaccastello.dev) 📝
 <!--
 **LAccastello/laccastello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
